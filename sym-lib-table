@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name uhey-psu)(type Legacy)(uri D:/Users/yuhei/Documents/kicad/psu-001/uhey-psu.lib)(options "")(descr ""))
+)
